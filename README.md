@@ -37,5 +37,7 @@ char input[] = "babad";
 printf("Longest Palindromic Substring: %s\n", longestPalindrome(input));
 return 0;
 }
-![r1 ss](https://github.com/user-attachments/assets/88a7b777-75e2-4aea-9b7e-271fc4ab3a53)
+```
+![r1 ss](https://github.com/user-attachments/assets/867297e7-df34-4075-a707-f25d81a178b8)
+
 
